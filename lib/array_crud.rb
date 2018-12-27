@@ -7,6 +7,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
+  expression = ["hi", "bye", "whatever", "shortly"]
   expression << "yay"
 end
 
